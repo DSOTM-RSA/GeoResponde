@@ -1,4 +1,4 @@
-import logo from "../assets/GeoResponde.png";
+import logo from "../assets/logo.png";
 import { useTranslation } from 'react-i18next';
 
 export function About() {
