@@ -220,11 +220,11 @@ GeoResponde welcomes contributions from:
 - Emergency managers
 - Volunteers
 
-See:
-
+New contributors should read 
 ```
 CONTRIBUTING.md
-```
+``` 
+before opening a Pull Request
 
 ---
 
