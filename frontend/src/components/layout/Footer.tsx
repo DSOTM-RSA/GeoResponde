@@ -27,7 +27,7 @@ export function Footer() {
           <span>&middot;</span>
           <a href="https://github.com/GeoResponde/GeoResponde/blob/main/LICENSE" target="_blank" rel="noopener noreferrer" style={{ color: '#94a3b8', textDecoration: 'none' }}>License</a>
         </div>
-        <div style={{ color: '#64748b', fontWeight: 'bold' }}>v0.2.0-alpha</div>
+        <div style={{ color: '#64748b', fontWeight: 'bold' }}>v0.5.0-alpha</div>
       </div>
     </footer>
   );

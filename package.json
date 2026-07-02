@@ -1,6 +1,6 @@
 {
   "name": "georesponde",
-  "version": "0.2.0-alpha",
+  "version": "0.5.0-alpha",
   "private": true,
   "description": "Open-source emergency geospatial platform",
   "engines": {

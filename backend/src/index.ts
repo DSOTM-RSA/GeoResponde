@@ -89,7 +89,7 @@ export function buildApp(): FastifyInstance {
   // bare liveness probe for the hosting platform's health checks.
   fastify.get('/', async () => ({
     service: 'GeoResponde Provider Gateway',
-    version: '0.5.0',
+    version: '0.5.0-alpha',
     status: 'operational',
   }))
 
